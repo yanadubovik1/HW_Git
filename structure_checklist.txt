@@ -1,0 +1,10 @@
+1) ENVIRONMENT
+2) Test date
+3) Tester
+4) Title
+5) Precondition
+6) Inputs
+7) Expected result
+8) Actual result
+9) Status
+10) Comments
